@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = /home/machadoah/Dropbox/dropbox/tmw-desbravando-pandas
+    url = /home/machadoah/Dropbox/tmw-desbravando-pandas
