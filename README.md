@@ -8,8 +8,6 @@ Aproveite também para baixar os [dados aqui](https://drive.google.com/drive/fol
 
 O objetivo primário deste material é introduzir a biblioteca de manipulação e análise de dados do Python, Pandas.
 
-Todo conteúdo será feito ao vivo e as gravações estarão disponíveis abertamente no [YouTube/@teomewhy](https://www.youtube.com/@teomewhy) e [twitch.tv/teomewhy](twitch.tv/teomewhy). As lives serão entre os dias 11/03 e 15/03 sempre às 19:30 com horário de término próximo às 22hrs.
-
 ### Ementa:
 
 Segue a nossa ementa do curso:
