@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "tmw-desbravando-pandas"
+version = "0.1.0"
+description = ""
+authors = ["Antonio Henrique Machado <antoniohenriquemachado08@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ignr = "^2.2"
+jupyter = "^1.0.0"
+notebook = "^7.2.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
